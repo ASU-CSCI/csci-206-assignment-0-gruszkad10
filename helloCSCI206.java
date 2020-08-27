@@ -1,5 +1,5 @@
 /*
-Author: Scott Schweizer
+Author: Daniel Gruszka
 Course: CSCI-206
 Assignment: 0
 */
